@@ -14,6 +14,3 @@ Input .bmp, and output yuv420;
 	- input 
 		-- strcat(filename, "image_path");
 
-
-
-# Covert_.Bmp_to_YUV420_OpenCv
